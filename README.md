@@ -4,7 +4,7 @@
 
 ## Folder Structure
 
-crm-erp-dashboard/
+`crm-erp-dashboard/
 ├── src/
 │ ├── components/
 │ │ ├── Layout.jsx
@@ -25,3 +25,4 @@ crm-erp-dashboard/
 ├── tailwind.config.js
 ├── postcss.config.js
 └── package.json
+`
