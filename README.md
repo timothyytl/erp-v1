@@ -1,10 +1,8 @@
-# Documentation
-
----
+## Documentation
 
 ## Folder Structure
 
-`crm-erp-dashboard/
+```crm-erp-dashboard/
 ├── src/
 │ ├── components/
 │ │ ├── Layout.jsx
@@ -25,4 +23,4 @@
 ├── tailwind.config.js
 ├── postcss.config.js
 └── package.json
-`
+```
